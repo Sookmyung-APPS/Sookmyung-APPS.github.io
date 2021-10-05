@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'IBMPlexSansKR-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/IBMPlexSansKR-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'twayair';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_tway@1.0/twayair.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    font-family: 'Pretendard-Regular';
+}
+
+@media screen and (min-width: 769px) {
+    iframe {
+        width: 100%;
+        height: 30vw;
+    }
+    .mainIMG {
+        width: 100%;
+        margin: 0 auto;
+        height: 40vh;
+        object-fit: cover;
+        box-shadow: 0 2px 5px 0 rgba(0,0,0,0.1);
+    }
+}
+ 
+ 
+@media screen and (max-width: 768px) { 
+    iframe {
+        width: 100%;
+        height: 25vh;
+    }
+    .mainIMG {
+        width: 100%;
+        margin: 0 auto;
+        height: 30vh;
+        object-fit: cover;
+        box-shadow: 0 2px 5px 0 rgba(0,0,0,0.1);
+    }
+}
+
+.divStyle {
+    font-family: 'Pretendard-Regular';
+    margin-left: 15px;
+    margin-right: 15px;
+    overflow: auto;
+    white-space: pre-wrap;
+}

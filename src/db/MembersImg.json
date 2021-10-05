@@ -1,0 +1,164 @@
+{
+    "imageList1":[
+        {
+            "id":1,
+            "name": "Chaeyeong",
+            "img": "memoji/Chaeyeong(심채영).jpg"
+        },
+        {
+            "id": 2,
+            "name": "Chaeyoung",
+            "img": "memoji/Chaeyoung(정채영).png"
+        },
+        {
+            "id": 3,
+            "name": "Dabin",
+            "img": "memoji/Dabin(윤다빈).png"
+        },
+        {
+            "id": 4,
+            "name": "Dani",
+            "img": "memoji/Dani(강단이).jpg"
+        },
+        {
+            "id": 5,
+            "name": "Dayeon",
+            "img": "memoji/Dayeon(김다연).PNG"
+        }
+    ],
+    "imageList2":[
+        {
+            "id":6,
+            "name": "Eunhyung",
+            "img": "memoji/Eunhyung(최은형).png"
+        },
+        {
+            "id": 7,
+            "name": "Gaeul",
+            "img": "memoji/Gaeul(이가을).jpg"
+        },
+        {
+            "id": 8,
+            "name": "Haeji",
+            "img": "memoji/Haeji(박해지).png"
+        },
+        {
+            "id": 9,
+            "name": "Heesoo",
+            "img": "memoji/Heesoo.png"
+        },
+        {
+            "id": 10,
+            "name": "Hyeonae",
+            "img": "memoji/Hyeonae(장현애).png"
+        }
+    ],
+    "imageList3":[
+        {
+            "id":11,
+            "name": "Hyesu",
+            "img": "memoji/Hyesu(김혜수).png"
+        },
+        {
+            "id": 12,
+            "name": "Jane",
+            "img": "memoji/Jane(정제인).png"
+        },
+        {
+            "id": 13,
+            "name": "Jeonghyeon",
+            "img": "memoji/Jeonghyeon(황정현).jpeg"
+        },
+        {
+            "id": 14,
+            "name": "Jeongyeon",
+            "img": "memoji/Jeongyeon(서정연).jpeg"
+        },
+        {
+            "id": 15,
+            "name": "Jinhee",
+            "img": "memoji/Jinhee(박진희).jpg"
+        }
+    ],
+    "imageList4":[
+        {
+            "id": 16,
+            "name": "Jinyoung",
+            "img": "memoji/Jinyoung(김진영).png"
+        },
+        {
+            "id": 17,
+            "name": "Jinyoung",
+            "img": "memoji/Jinyoung(신진영).png"
+        },
+        {
+            "id": 18,
+            "name": "Junghyun Yu",
+            "img": "memoji/Junghyun(유정현).jpg"
+        },
+        {
+            "id": 19,
+            "name": "Minji",
+            "img": "memoji/Minji(권민지).png"
+        },
+        {
+            "id": 20,
+            "name": "Minyeong",
+            "img": "memoji/Minyeong(정민영).png"
+        }
+    ],
+    "imageList5":[
+        {
+            "id": 21,
+            "name": "Nari",
+            "img": "memoji/Nari(장나리).png"
+        },
+        {
+            "id": 22,
+            "name": "SuJin",
+            "img": "memoji/SuJin(조수진).png"
+        },
+        {
+            "id": 23,
+            "name": "Suyeon",
+            "img": "memoji/Suyeon(황수연).png"
+        },
+        {
+            "id": 24,
+            "name": "Yebin",
+            "img": "memoji/Yebin(최예빈).png"
+        },
+        {
+            "id": 25,
+            "name": "Yejin",
+            "img": "memoji/Yejin(김예진).jpeg"
+        }
+    ],
+    "imageList6":[
+        {
+            "id": 26,
+            "name": "Yerin",
+            "img": "memoji/Yerin(고예린).png"
+        },
+        {
+            "id": 27,
+            "name": "Yoojeong",
+            "img": "memoji/Yoojeong(전유정).png"
+        },
+        {
+            "id": 28,
+            "name": "Youngseo",
+            "img": "memoji/Youngseo(조영서).png"
+        },
+        {
+            "id": 29,
+            "name": "Yugyeong",
+            "img": "memoji/Yugyeong(현유경).png"
+        },
+        {
+            "id": 30,
+            "name": "YuKyung Hwang",
+            "img": "memoji/YuKyung_Hwang(황유경).png"
+        }
+    ]
+}
