@@ -8,7 +8,7 @@ import Footer from "../Components/Footer";
 
 function IntroduePage(){
     const imgstyle={
-        width:"90%"
+        width:"60%"
     }
    return(
        <div>

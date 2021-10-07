@@ -7,7 +7,7 @@ function ImageList(){
         justifyContent: "center"
     }
     const devImg={
-        width:"10vw"
+        width:"9vw"
     }
     
     return <div style={dev}>
