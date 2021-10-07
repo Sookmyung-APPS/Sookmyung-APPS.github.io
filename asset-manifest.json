@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.bf298ef7.chunk.css",
-    "main.js": "/static/js/main.86f71aa6.chunk.js",
-    "main.js.map": "/static/js/main.86f71aa6.chunk.js.map",
+    "main.js": "/static/js/main.83beb2dd.chunk.js",
+    "main.js.map": "/static/js/main.83beb2dd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.41c921e5.js",
     "runtime-main.js.map": "/static/js/runtime-main.41c921e5.js.map",
     "static/css/2.f2512455.chunk.css": "/static/css/2.f2512455.chunk.css",
-    "static/js/2.f4403236.chunk.js": "/static/js/2.f4403236.chunk.js",
-    "static/js/2.f4403236.chunk.js.map": "/static/js/2.f4403236.chunk.js.map",
+    "static/js/2.31810bd7.chunk.js": "/static/js/2.31810bd7.chunk.js",
+    "static/js/2.31810bd7.chunk.js.map": "/static/js/2.31810bd7.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.f2512455.chunk.css.map": "/static/css/2.f2512455.chunk.css.map",
     "static/css/main.bf298ef7.chunk.css.map": "/static/css/main.bf298ef7.chunk.css.map",
-    "static/js/2.f4403236.chunk.js.LICENSE.txt": "/static/js/2.f4403236.chunk.js.LICENSE.txt",
+    "static/js/2.31810bd7.chunk.js.LICENSE.txt": "/static/js/2.31810bd7.chunk.js.LICENSE.txt",
     "static/media/apps_logo.png": "/static/media/apps_logo.2ae71605.png",
     "static/media/mainpage_carousel.png": "/static/media/mainpage_carousel.11851e1e.png",
     "static/media/main.css": "/static/media/배경.06e539f9.jpg"
@@ -19,8 +19,8 @@
   "entrypoints": [
     "static/js/runtime-main.41c921e5.js",
     "static/css/2.f2512455.chunk.css",
-    "static/js/2.f4403236.chunk.js",
+    "static/js/2.31810bd7.chunk.js",
     "static/css/main.bf298ef7.chunk.css",
-    "static/js/main.86f71aa6.chunk.js"
+    "static/js/main.83beb2dd.chunk.js"
   ]
 }
