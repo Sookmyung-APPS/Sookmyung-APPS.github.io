@@ -24,7 +24,7 @@
     "predeploy" : "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://sookmyung-apps.github.io/",
+  "homepage": "https://sookmyung-apps.github.io/APPS-Exhibition",
   "eslintConfig": {
     "extends": [
       "react-app",
