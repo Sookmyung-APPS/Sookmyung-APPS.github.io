@@ -12,10 +12,7 @@ function IntroduePage(){
     }
    return(
        <div>
-        <div className="container">
-            <Header />
-        </div>
-
+        <Header />
         <div id="BigAppsImg">
             <img
                 src={require("../Assets/IntroducePageImg.png").default}
