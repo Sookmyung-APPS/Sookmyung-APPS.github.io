@@ -20,8 +20,7 @@
     "start": "export PORT=80 && react-scripts start pm2",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "deploy": "npm run build &&gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "homepage": "https://sookmyung-apps.github.io/",
   "eslintConfig": {
