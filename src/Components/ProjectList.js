@@ -288,7 +288,7 @@ class ProjectList extends React.Component {
     CardList({id, name, team, img, none_or_block}) {
         return (
             <div className="ProjectPage__ProjectList" style={{display: none_or_block}}>
-                <a className="ProejctPage__Link" href={`/project/${name.replace(/ /g,"")}`}>
+                <a className="ProejctPage__Link" to={`/project/${name.replace(/ /g,"")}`}>
                 <Card className = "card">
                     <Card.Img variant="top" 
                     src={img}
