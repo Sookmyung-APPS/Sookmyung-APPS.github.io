@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.cdf82f5e.chunk.css",
-    "main.js": "/static/js/main.a5d271ae.chunk.js",
-    "main.js.map": "/static/js/main.a5d271ae.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.41c921e5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.41c921e5.js.map",
-    "static/css/2.f2512455.chunk.css": "/static/css/2.f2512455.chunk.css",
-    "static/js/2.d8fe53c6.chunk.js": "/static/js/2.d8fe53c6.chunk.js",
-    "static/js/2.d8fe53c6.chunk.js.map": "/static/js/2.d8fe53c6.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.f2512455.chunk.css.map": "/static/css/2.f2512455.chunk.css.map",
-    "static/css/main.cdf82f5e.chunk.css.map": "/static/css/main.cdf82f5e.chunk.css.map",
-    "static/js/2.d8fe53c6.chunk.js.LICENSE.txt": "/static/js/2.d8fe53c6.chunk.js.LICENSE.txt",
-    "static/media/apps_logo.png": "/static/media/apps_logo.2ae71605.png",
-    "static/media/mainpage_carousel.png": "/static/media/mainpage_carousel.11851e1e.png",
-    "static/media/main.css": "/static/media/배경.06e539f9.jpg"
+    "main.css": "/APPS-Exhibition/static/css/main.d463035b.chunk.css",
+    "main.js": "/APPS-Exhibition/static/js/main.2e33f3ed.chunk.js",
+    "main.js.map": "/APPS-Exhibition/static/js/main.2e33f3ed.chunk.js.map",
+    "runtime-main.js": "/APPS-Exhibition/static/js/runtime-main.efd27610.js",
+    "runtime-main.js.map": "/APPS-Exhibition/static/js/runtime-main.efd27610.js.map",
+    "static/css/2.f2512455.chunk.css": "/APPS-Exhibition/static/css/2.f2512455.chunk.css",
+    "static/js/2.d8fe53c6.chunk.js": "/APPS-Exhibition/static/js/2.d8fe53c6.chunk.js",
+    "static/js/2.d8fe53c6.chunk.js.map": "/APPS-Exhibition/static/js/2.d8fe53c6.chunk.js.map",
+    "index.html": "/APPS-Exhibition/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/APPS-Exhibition/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.d463035b.chunk.css.map": "/APPS-Exhibition/static/css/main.d463035b.chunk.css.map",
+    "static/js/2.d8fe53c6.chunk.js.LICENSE.txt": "/APPS-Exhibition/static/js/2.d8fe53c6.chunk.js.LICENSE.txt",
+    "static/media/apps_logo.png": "/APPS-Exhibition/static/media/apps_logo.2ae71605.png",
+    "static/media/mainpage_carousel.png": "/APPS-Exhibition/static/media/mainpage_carousel.11851e1e.png",
+    "static/media/main.css": "/APPS-Exhibition/static/media/배경.06e539f9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.41c921e5.js",
+    "static/js/runtime-main.efd27610.js",
     "static/css/2.f2512455.chunk.css",
     "static/js/2.d8fe53c6.chunk.js",
-    "static/css/main.cdf82f5e.chunk.css",
-    "static/js/main.a5d271ae.chunk.js"
+    "static/css/main.d463035b.chunk.css",
+    "static/js/main.2e33f3ed.chunk.js"
   ]
 }
