@@ -61,27 +61,27 @@ const array = [
     {   //김다연
         name: "김다연",
         DownloadLink1: "https://drive.google.com/file/d/1K-R09VSp8ssAEaY0n72uw7kAgO4ylSuP/view?usp=sharing",
-        DownloadLink2: "https://drive.google.com/file/d/1K-R09VSp8ssAEaY0n72uw7kAgO4ylSuP/view?usp=sharing",
+        DownloadLink2: "#",
         DownloadLink3: "#",
         GithubLink: "https://github.com/Sookmyung-APPS/TERRAFORMING"
     },
     {   //김진영
         name: "김진영",
-        DownloadLink1: "https://drive.google.com/file/d/1F2OrFcJeqqiWIAaAmuL711jp30GcRLzh/view?usp=sharing",
+        DownloadLink1: "#",
         DownloadLink2: "https://drive.google.com/file/d/1F2OrFcJeqqiWIAaAmuL711jp30GcRLzh/view?usp=sharing",
         DownloadLink3: "#",
         GithubLink: "https://github.com/Sookmyung-APPS/Make-My-Wish-Come-True"
     },
     {   //박해지
         name: "박해지",
-        DownloadLink1: "https://drive.google.com/file/d/1jq1tFL5M-F8wJBISxmXgY0Qvq1uCjKzJ/view?usp=sharing",
+        DownloadLink1: "#",
         DownloadLink2: "https://drive.google.com/file/d/1jq1tFL5M-F8wJBISxmXgY0Qvq1uCjKzJ/view?usp=sharing",
         DownloadLink3: "#",
         GithubLink: "https://github.com/Sookmyung-APPS/RoomEscapeGame"
     },
     {   //이가을
         name: "이가을",
-        DownloadLink1: "https://drive.google.com/file/d/1NRo2BKj4raNXm_JiCq1f-oiUcaW_lsFl/view?usp=sharing",
+        DownloadLink1: "#",
         DownloadLink2: "https://drive.google.com/file/d/1NRo2BKj4raNXm_JiCq1f-oiUcaW_lsFl/view?usp=sharing",
         DownloadLink3: "#",
         GithubLink: "https://github.com/Sookmyung-APPS/SNOWJUMP"
@@ -102,7 +102,7 @@ const array = [
     },
     {   //정채영
         name: "정채영",
-        DownloadLink1: "https://drive.google.com/file/d/1eIsWPfudbMSDYrwcPgKu0tT5m1KITvfj/view?usp=sharing",
+        DownloadLink1: "#",
         DownloadLink2: "https://drive.google.com/file/d/1eIsWPfudbMSDYrwcPgKu0tT5m1KITvfj/view?usp=sharing",
         DownloadLink3: "#",
         GithubLink: "https://github.com/Sookmyung-APPS/RollingBall"
@@ -110,7 +110,7 @@ const array = [
     {   //홍희수
         name: "홍희수",
         DownloadLink1: "https://drive.google.com/file/d/1M-WuAsOH1HxPO_cpUoOa9I8Mt2T-RoPf/view?usp=sharing",
-        DownloadLink2: "https://drive.google.com/file/d/1M-WuAsOH1HxPO_cpUoOa9I8Mt2T-RoPf/view?usp=sharing",
+        DownloadLink2: "#",
         DownloadLink3: "#",
         GithubLink: "https://github.com/Sookmyung-APPS/RollNoonSong"
     },
