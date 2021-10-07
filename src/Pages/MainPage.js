@@ -25,7 +25,7 @@ const array = [
   },
   {
     name: "일력",
-    src: "img_row/일력_세로사진.PNG",
+    src: "img_row/일력_세로사진.png",
     link: "https://www.youtube.com/embed/TYGCUgpeGoA",
   },
   {
