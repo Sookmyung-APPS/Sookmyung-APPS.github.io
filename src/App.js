@@ -4,11 +4,13 @@ import MainPage from "./Pages/MainPage";
 import ProjectPage from "./Pages/ProjectPage";
 import IndivPage from "./Pages/IndivPage";
 import IntroducePage from "./Pages/IntroducePage";
+import Navigation from "./Components/Navigation";
 
 function App(){
   return (
     <span className="App">
       <HashRouter basename={process.env.PUBLIC_URL}>
+        <Navigation />
         <Route path="/" exact component={MainPage} />
         <Route path="/introduce" exact component ={IntroducePage} />
         <Route path="/project" exact component ={ProjectPage} />
