@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Sookmyung-APPS.github.io/static/css/main.25e16d62.chunk.css",
-    "main.js": "/Sookmyung-APPS.github.io/static/js/main.c0efb631.chunk.js",
-    "main.js.map": "/Sookmyung-APPS.github.io/static/js/main.c0efb631.chunk.js.map",
-    "runtime-main.js": "/Sookmyung-APPS.github.io/static/js/runtime-main.05b4e4b2.js",
-    "runtime-main.js.map": "/Sookmyung-APPS.github.io/static/js/runtime-main.05b4e4b2.js.map",
-    "static/css/2.f2512455.chunk.css": "/Sookmyung-APPS.github.io/static/css/2.f2512455.chunk.css",
-    "static/js/2.d8fe53c6.chunk.js": "/Sookmyung-APPS.github.io/static/js/2.d8fe53c6.chunk.js",
-    "static/js/2.d8fe53c6.chunk.js.map": "/Sookmyung-APPS.github.io/static/js/2.d8fe53c6.chunk.js.map",
-    "index.html": "/Sookmyung-APPS.github.io/index.html",
-    "static/css/2.f2512455.chunk.css.map": "/Sookmyung-APPS.github.io/static/css/2.f2512455.chunk.css.map",
-    "static/css/main.25e16d62.chunk.css.map": "/Sookmyung-APPS.github.io/static/css/main.25e16d62.chunk.css.map",
-    "static/js/2.d8fe53c6.chunk.js.LICENSE.txt": "/Sookmyung-APPS.github.io/static/js/2.d8fe53c6.chunk.js.LICENSE.txt",
-    "static/media/apps_logo.png": "/Sookmyung-APPS.github.io/static/media/apps_logo.2ae71605.png",
-    "static/media/mainpage_carousel.png": "/Sookmyung-APPS.github.io/static/media/mainpage_carousel.11851e1e.png",
-    "static/media/main.css": "/Sookmyung-APPS.github.io/static/media/배경.06e539f9.jpg"
+    "main.css": "/static/css/main.cdf82f5e.chunk.css",
+    "main.js": "/static/js/main.6d05a019.chunk.js",
+    "main.js.map": "/static/js/main.6d05a019.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.41c921e5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.41c921e5.js.map",
+    "static/css/2.f2512455.chunk.css": "/static/css/2.f2512455.chunk.css",
+    "static/js/2.ce2f6d46.chunk.js": "/static/js/2.ce2f6d46.chunk.js",
+    "static/js/2.ce2f6d46.chunk.js.map": "/static/js/2.ce2f6d46.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.cdf82f5e.chunk.css.map": "/static/css/main.cdf82f5e.chunk.css.map",
+    "static/js/2.ce2f6d46.chunk.js.LICENSE.txt": "/static/js/2.ce2f6d46.chunk.js.LICENSE.txt",
+    "static/media/apps_logo.png": "/static/media/apps_logo.2ae71605.png",
+    "static/media/mainpage_carousel.png": "/static/media/mainpage_carousel.11851e1e.png",
+    "static/media/main.css": "/static/media/배경.06e539f9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.05b4e4b2.js",
+    "static/js/runtime-main.41c921e5.js",
     "static/css/2.f2512455.chunk.css",
-    "static/js/2.d8fe53c6.chunk.js",
-    "static/css/main.25e16d62.chunk.css",
-    "static/js/main.c0efb631.chunk.js"
+    "static/js/2.ce2f6d46.chunk.js",
+    "static/css/main.cdf82f5e.chunk.css",
+    "static/js/main.6d05a019.chunk.js"
   ]
 }
