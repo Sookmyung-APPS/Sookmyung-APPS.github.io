@@ -28,12 +28,6 @@
   font-style: normal;
 }
 
-#BigAppsImg {
-  text-align: center;
-  background-color: black;
-  margin-top: 20px;
-  margin-bottom: 7vw;
-}
 
 table {
   text-align: center;
@@ -75,4 +69,28 @@ img {
 
 h5 {
   font-family: "Pretendard-Regular";
+}
+
+
+@media screen and (min-width: 769px) {
+  #BigAppsImg {
+    text-align: center;
+    background-color: black;
+    margin-top: 20px;
+    margin-bottom: 7vw;
+    
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #BigAppsImg {
+    text-align: center;
+    background-color:black;
+    margin-top: 20px;
+    margin-bottom: 7vw;
+    width: 100%;
+  }
+  .memoji_n{
+    font-size: 2vw;
+  }
 }
