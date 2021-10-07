@@ -1,5 +1,6 @@
 //Project List Buttons in ProjectPage
 import { Container, Card } from "react-bootstrap";
+import {Link} from "react-router-dom";
 import React from "react";
 import "../Assets/ProjectPage.css";
 
@@ -288,7 +289,7 @@ class ProjectList extends React.Component {
     CardList({id, name, team, img, none_or_block}) {
         return (
             <div className="ProjectPage__ProjectList" style={{display: none_or_block}}>
-                <a className="ProejctPage__Link" to={`/project/${name.replace(/ /g,"")}`}>
+                <Link className="ProejctPage__Link" to={`/project/${name.replace(/ /g,"")}`}>
                 <Card className = "card">
                     <Card.Img variant="top" 
                     src={img}
@@ -301,7 +302,7 @@ class ProjectList extends React.Component {
                         </Card.Text>
                     </Card.Body>
                 </Card>
-                </a>
+                </Link>
             </div>
         );
     }
