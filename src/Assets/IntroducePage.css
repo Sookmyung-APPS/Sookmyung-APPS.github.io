@@ -80,6 +80,9 @@ h5 {
     margin-bottom: 7vw;
     
   }
+  .memoji_n{
+    font-size: 3vw;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -91,6 +94,6 @@ h5 {
     width: 100%;
   }
   .memoji_n{
-    font-size: 10vw;
+    font-size: 3vw;
   }
 }
